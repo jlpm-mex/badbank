@@ -1,0 +1,7 @@
+.myNavBarItem:hover{
+    font-weight: bold;
+}
+
+.myNavBarItem.active{
+    text-decoration: line-through;
+}
