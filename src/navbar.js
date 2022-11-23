@@ -27,10 +27,8 @@ export default function NavBar(){
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className = "me-auto">
             <Nav.Link className="myNavBarItem" href="#/CreateAccount/">Create Account</Nav.Link>
-            <Nav.Link className="myNavBarItem" href="#/login/">Login</Nav.Link>
             <Nav.Link className="myNavBarItem" href="#/deposit/">Deposit</Nav.Link>
             <Nav.Link className="myNavBarItem" href="#/withdraw/">Withdraw</Nav.Link>
-            <Nav.Link className="myNavBarItem" href="#/balance/">Balance</Nav.Link>
             <Nav.Link className="myNavBarItem" href="#/alldata/">AllData</Nav.Link>
           </Nav> 
         </Navbar.Collapse>
